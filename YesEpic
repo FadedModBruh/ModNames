@@ -1,5 +1,5 @@
 ModIDS = {
-  [2294188446] = true;
+  [12345678] = true;
 };
 
 return ModIDS;
