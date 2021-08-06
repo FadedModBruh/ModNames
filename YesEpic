@@ -1,3 +1,4 @@
+-- Note To Da Hood Mods: There are youtubers, non exploiters here, so if ur going to mass ban ur basically gonna false ban alot of people
 ModIDS = {
   [1096454087] = true;
   [2312139243] = true;
@@ -164,6 +165,7 @@ ModIDS = {
   [639017278] = true;
   [1611434354] = true;
   [4078121] = true;
+  [996380266] = true;
 };
 
 return ModIDS;
