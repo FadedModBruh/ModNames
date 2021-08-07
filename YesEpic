@@ -171,6 +171,7 @@ ModIDS = {
   [1611434354] = true;
   [4078121] = true;
   [996380266] = true;
+  [2042986005] = true;
 };
 
 return ModIDS;
